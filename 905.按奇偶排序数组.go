@@ -25,7 +25,3 @@ func sortArrayByParity(nums []int) []int {
 }
 
 // @lc code=end
-func main() {
-	nums := []int{3, 1, 2, 4}
-	sortArrayByParity(nums)
-}
